@@ -1,2 +1,2 @@
-# C---Practice
+# C# Practice
 Learn C# Topics!
