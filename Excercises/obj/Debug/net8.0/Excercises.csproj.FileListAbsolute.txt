@@ -1,0 +1,14 @@
+C:\Users\rhema\source\repos\Excercises\Excercises\bin\Debug\net8.0\Excercises.exe
+C:\Users\rhema\source\repos\Excercises\Excercises\bin\Debug\net8.0\Excercises.deps.json
+C:\Users\rhema\source\repos\Excercises\Excercises\bin\Debug\net8.0\Excercises.runtimeconfig.json
+C:\Users\rhema\source\repos\Excercises\Excercises\bin\Debug\net8.0\Excercises.dll
+C:\Users\rhema\source\repos\Excercises\Excercises\bin\Debug\net8.0\Excercises.pdb
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\Excercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\Excercises.AssemblyInfoInputs.cache
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\Excercises.AssemblyInfo.cs
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\Excercises.csproj.CoreCompileInputs.cache
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\Excercises.dll
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\refint\Excercises.dll
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\Excercises.pdb
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\Excercises.genruntimeconfig.cache
+C:\Users\rhema\source\repos\Excercises\Excercises\obj\Debug\net8.0\ref\Excercises.dll
